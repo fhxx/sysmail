@@ -1,0 +1,10 @@
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Release\Dobug.SysMail.exe
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Release\Dobug.SysMail.pdb
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Release\Microsoft.mshtml.dll
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Release\NetSpell.SpellChecker.dll
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.FrmMain.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.HtmlEditor.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.Properties.Resources.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.csproj.GenerateResource.Cache
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.exe
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Release\Dobug.SysMail.pdb

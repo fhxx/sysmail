@@ -1,0 +1,8 @@
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.FrmMain.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.HtmlEditor.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.Properties.Resources.resources
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.csproj.GenerateResource.Cache
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Debug\Dobug.SysMail.exe
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\bin\Debug\Dobug.SysMail.pdb
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.exe
+E:\CinqTeam\Gmail发送\Dobug.SysMail\Dobug.SysMail\obj\x86\Debug\Dobug.SysMail.pdb
